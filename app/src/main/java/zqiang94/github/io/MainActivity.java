@@ -9,7 +9,6 @@ import com.example.BindView;
 import io.github.zqiang94.viewinject_api.ViewInjector;
 
 public class MainActivity extends AppCompatActivity {
-
     @BindView(R.id.contentTV)
     TextView contentTV;
 
