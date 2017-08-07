@@ -1,5 +1,6 @@
 # ViewInjector
 a sample of ioc base on apt.
+APT在编译时生成代码，实现ViewBind功能。
 
 #### [ioc-apt-sample](https://github.com/hymanAndroid/ioc-apt-sample)
 #### [Android 利用 APT 技术在编译期生成代码](http://blog.csdn.net/hb707934728/article/details/52213086)
